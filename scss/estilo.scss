@@ -1,0 +1,135 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	line-height: 1.5;
+}
+.video1 {
+	position: fixed;
+	min-width: 100%;
+	min-height: 100%;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	z-index: -1;
+}
+nav {
+	width: 55%;
+	height: 100px;
+	background-color: #6E6E6E;
+	opacity: 0.7;
+	border-radius: 50px;
+	position: fixed;
+	left: 22.5%;
+	margin-top: -163px;
+}
+nav ul {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+}
+nav ul li {
+	margin-top: 30px;
+	list-style-type: none;
+}
+nav ul li a {
+	color: white;
+	text-decoration: none;
+	font-size: 23px;
+}
+li a:hover {
+	transition: 1s;
+	border-radius: 65px;
+	background-color: gray;
+	padding: 15px;
+	opacity: 0.7;
+}
+.checkbtn {
+	display: none;
+}
+#check {
+	display: none;
+}
+.creamos {
+	color: white;
+	text-align: center;
+	margin-top: 200px;
+}
+.puedes {
+	width: 50%;
+	color: white;
+	text-align: center;
+	margin-top: 40px;
+	margin-left: 21%;
+}
+.caja-plan {
+	width: 300px;
+	height: 100px;
+	background-color: #6E6E6E;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	margin-left: 38%;
+	margin-top: 120px;
+	border-radius: 50px;
+	border-style: solid;
+}
+.fa-wallet {
+	font-size: 25px;
+	margin-top: 33px;
+}
+.plan {
+	color: white;
+	text-decoration: none;
+	font-size: 25px;
+	padding: 20px;
+	margin-top: 5px;
+}
+.caja-plan:hover {
+	background-color: dimgray;
+	opacity: 0.8;
+	cursor: pointer;
+}
+.seccion2 .articulo2 {
+	width: 100%;
+	height: 663px;
+	background-color: white;
+	margin-top: 140px;
+}
+.servi {
+	text-align: center;
+	font-size: 23px;
+	padding-top: 120px;
+}
+.video2 {
+	width: 100%;
+	height: 300px;
+	margin-top: 60px;
+}
+.seccion3 .articulo3 {
+	width: 100%;
+	height: 800px;
+	background-color: #F6CEF5;
+}
+.padre-plan {
+	display: grid;
+	grid-template-columns: auto auto;
+	justify-content: space-around;
+	align-items: center;
+}
+.plan1 {
+	font-family: fantasy;
+	width: 500px;
+	height: 500px;
+	border-style: solid;
+	border-radius: 50px;
+	margin-top: 85px;
+}
+.plan2 {
+	font-family: fantasy;
+	width: 500px;
+	height: 500px;
+	border-style: solid;
+	border-radius: 50px;
+	margin-top: 85px;
+}
