@@ -73,6 +73,14 @@ li:hover > ul {
 	margin-top: 40px;
 	margin-left: 21%;
 }
+.puedess {
+	width: 50%;
+	color: white;
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 60px;
+	margin-left: 24%;
+}
 .logo-whatsapp {
 	width: 50px;
 	height: 50px;
@@ -88,6 +96,10 @@ li:hover > ul {
 	margin-top: -380px;
 	margin-left: 20px;
 	z-index: 1;
+}
+.loga {
+	margin-top: -420px;
+	margin-left: 20px;
 }
 .logo-whatsapp:hover {
 	width: 60px;
@@ -132,6 +144,7 @@ li:hover > ul {
 	text-align: center;
 	font-size: 23px;
 	padding-top: 120px;
+	color: #1472ba;
 }
 .video2 {
 	width: 100%;
@@ -569,6 +582,164 @@ li:hover > ul {
 .parrafo-planes1 {
 	text-align: center;
 	margin-right: 250px;
+}
+.secc-1-contacto .art-1-contacto {
+	width: 100%;
+	height: 1600px;
+	background-color: white;
+}
+.flecha-abajo {
+	color: white;
+	text-decoration: none;
+	margin-left: 46%;
+	font-size: 90px;
+}
+.flecha-abajo:hover {
+	font-size: 100px;
+	transition: 0.7s;
+	opacity: 0.7;
+}
+.cajon-de-contacto {
+	background-color: #1472ba;
+	opacity: 0.9;
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-top: 60px;
+	height: 38%;
+	border-radius: 50px;
+}
+.titulo-de-formulario {
+	text-align: center;
+	font-size: 15px;
+	padding-top: 15px;
+	color: white;
+}
+.form-contacto {
+	font-size: 50px;
+	font-family: sans-serif;
+	text-align: center;
+	margin-top: 100px;
+	padding-top: 100px;
+	color: #1472ba;
+}
+.form-check-label {
+	color: white;
+}
+.form-contact-1 {
+	padding-top: 0px;
+}
+.input-group {
+	width: 82%;
+	margin-bottom: 15px;
+}
+.primer-cajon {
+	padding-top: 20px;
+}
+.input-group-text {
+	width: 160px;
+	height: 60px;
+	margin-left: 9%;
+}
+.form-control {
+	height: 60px;
+	margin-right: 9%;
+}
+.form-select {
+	margin-right: 9%;
+}
+.form-check {
+	width: 82%;
+	margin-left: 9%;
+	margin-right: 9%;
+}
+.btn-primary {
+	margin-left: 9%;
+	margin-right: 9%;
+}
+.col-12 {
+	margin-bottom: 15px;
+}
+.col-12 .btn {
+	background-color: #014ba0;
+}
+.form-check .form-check-input {
+	background-color: #014ba0;
+}
+.mapa {
+	width: 60%;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 80px;
+}
+.seccion2-de-quienessomos .articulo2-de-quienessomos {
+	width: 100%;
+	height: 533px;
+	background-color: white;
+}
+.loga-wpp {
+	margin-top: -380px;
+}
+.acercafast {
+	text-align: center;
+	font-size: 50px;
+	margin-top: 115px;
+	padding-top: 100px;
+	font-family: sans-serif;
+	color: #1472ba;
+}
+.pacercafast {
+	text-align: center;
+	margin-top: 50px;
+	margin-left: 80px;
+	margin-right: 80px;
+	font-size: 20px;
+	color: #1472ba;
+}
+.seccion3-de-quienessomos .articulo3-de-quienessomos {
+	width: 100%;
+	height: 1480px;
+	background-color: white;
+}
+.seccion3-de-quienessomos .articulo3-de-quienessomos .pppp {
+	color: #1472ba;
+	text-align: center;
+	margin-left: 80px;
+	margin-right: 80px;
+	font-size: 20px;
+	padding-top: 100px;
+}
+.cajon-de-quienessomos {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-top: 150px;
+}
+.caja-de-quienessomos {
+	border-style: solid;
+	border-color: #006691;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+.img-quienessomos {
+	width: 100px;
+	height: 100px;
+	margin-left: 35%;
+	margin-bottom: 25px;
+	margin-top: 25px;
+}
+.caja-de-quienessomos p {
+	color: #1472ba;
+	font-size: 20px;
+	text-align: center;
+	padding-right: 18px;
+	padding-left: 18px;
+}
+.caja-de-quienessomos h3 {
+	color: #1472ba;
+	font-size: 25px;
+	text-align: center;
+	margin-bottom: 30px;
 }
 footer {
 	width: 100%;
